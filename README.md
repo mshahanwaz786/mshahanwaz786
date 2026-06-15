@@ -1,46 +1,29 @@
-<h1 align="center">Hi 👋, I'm Md Shahanwaz Hussain</h1>
-<h3 align="center">A passionate Frontend Developer who builds everything from his phone 📱</h3>
-
----
-
 # 💫 About Me:
-- 🔭 Personal portfolio and frontend projects using **React.js** and **JavaScript**
-- 🌱 Working on frontend development projects and open-source beginner projects
-- ⚙️ Learning backend development (Node.js) and advanced React concepts
-- 🛠️ Comfortable with React.js, Tailwind CSS, and Node.js
-- 💡 Skilled in HTML, CSS, JavaScript, React.js, and Python
-- 📱 I built and deployed my **first live web app entirely from my phone!**
+Personal portfolio and frontend projects using React.js and JavaScript<br>Frontend development projects and open-source beginner projects<br>Backend development (Node.js) and advanced React concepts<br>React.js, Tailwind CSS, and Node.js<br>HTML, CSS, JavaScript, React.js, and Python<br>I built and deployed my first live web app entirely from my phone!
 
----
 
-## 🌐 Connect with me:
+## 🌐 Socials:
 [
 
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)
 
-](https://facebook.com/ShahanwazHussain)
-[
+](https://facebook.com/ShahanwazHussain) [
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
 
-](https://instagram.com/shahanwaz__hussain07)
-[
+](https://instagram.com/shahanwaz__hussain07) [
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 
-](https://linkedin.com/in/md-shahanwaz-3bb69237b)
-[
+](https://linkedin.com/in/md-shahanwaz-3bb69237b) [
 
-![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
+![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)
 
-](https://pinterest.com/mshahanwaz07)
-[
+](https://pinterest.com/mshahanwaz07) [
 
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
 
-](mailto:mshahanwaz147@gmail.com)
-
----
+](mailto:mshahanwaz147@gmail.com) 
 
 # 💻 Tech Stack:
 
@@ -120,41 +103,33 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-
----
-
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-stats.vercel.app/api?username=mshahanwaz786&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=mshahanwaz786&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 
-
-
+<br/>
 
 
 ![](https://streak-stats.demolab.com/?user=mshahanwaz786&theme=radical&hide_border=false)
 
+<br/>
 
 
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mshahanwaz786&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mshahanwaz786&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
----
 
 ## 🏆 GitHub Trophies
 
 
-![](https://github-profile-trophy.vercel.app/?username=mshahanwaz786&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mshahanwaz786&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
 
 
 ---
-
 [
 
-![Profile Views](https://komarev.com/ghpvc/?username=mshahanwaz786&style=for-the-badge&color=1f425f)
+![](https://komarev.com/ghpvc/?username=mshahanwaz786&icon=2&color=1)
 
-](https://github.com/mshahanwaz786)
+](https://visitcount.itsvg.in)
